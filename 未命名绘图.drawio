@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T09:55:18.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="KBMjHyCaBcEiS2FWtjfi" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T03:32:00.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="J_miS1Gkj_dnAK0dOTRv" version="21.2.1" type="github">
   <diagram name="第 1 页" id="1Un_j06MCUsO6M0513EL">
     <mxGraphModel dx="687" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,30 @@
         </mxCell>
         <mxCell id="xsLSFmgHNhUDvW_-SBU2-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Kubernetes集群&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="263.75" y="585" width="190.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-34" value="向API-server&lt;br&gt;发送http请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1632" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1634" y="374" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
