@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T14:46:45.382Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="VDa-D860b7Fe6aXe0Xo3" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T14:47:31.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="JxdGOHvoVJaSjRltsUg1" version="21.2.1" type="github">
   <diagram name="第 1 页" id="1Un_j06MCUsO6M0513EL">
     <mxGraphModel dx="501" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,7 +528,7 @@
         <mxCell id="xsLSFmgHNhUDvW_-SBU2-201" value="scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1347" y="3870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xsLSFmgHNhUDvW_-SBU2-202" value="custom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xsLSFmgHNhUDvW_-SBU2-202" value="Custom Resource Define" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1401" y="3917" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
